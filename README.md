@@ -17,7 +17,7 @@ In the app, users will be able to answer questions, see which questions they hav
 ![expressjs](https://img.shields.io/badge/Express.js-438000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-**authentication**
+**authentication:**
 ![auth0](https://img.shields.io/badge/Auth0-000?style=for-the-badge&logo=auth0&logoColor=white)&nbsp;
 
 
@@ -46,9 +46,6 @@ Connecting Auth0 to MongoDB this [blog](https://auth0.com/blog/connecting-auth0-
 
 
 
-Use the package manager [yarn](https://yarnpkg.com/) to install Would You.
-Setup the project and install the packages by running: 
-
 Run Backend with command
 ```bash
 npm start
@@ -74,6 +71,7 @@ API routes can be accessed on [http://localhost:5000/user](http://localhost:3000
   <li> <b>PUT</b> /question/:id </li>
 </ul>
 
+Use the package manager [yarn](https://yarnpkg.com/) to install Would You.
 
 Run Frontend with command
 ```bash
