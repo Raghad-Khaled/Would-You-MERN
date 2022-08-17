@@ -18,6 +18,7 @@ In the app, users will be able to answer questions, see which questions they hav
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 **authentication:**
+
 ![auth0](https://img.shields.io/badge/Auth0-000?style=for-the-badge&logo=auth0&logoColor=white)&nbsp;
 
 
