@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Frontend
+Backend/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+Frontend/.next/
+Frontend/.swc/
+Frontend/out/
+
+# production
+Frontend/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+Frontend/.env*.local
+Backend/.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+Frontend/data
+Frontend/pages/api/questions
+Frontend/pages/api/users
+Frontend/pages/api/hello.ts
+
+
